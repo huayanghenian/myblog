@@ -1,0 +1,17 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "这是第一个boke",
+  "main": "index.js",
+  "repository": "https://github.com/huayanghenian/myblog.git",
+  "author": "何佳 <3489146530@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-theme-vdoing": "^1.12.8"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
